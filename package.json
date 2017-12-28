@@ -1,0 +1,23 @@
+{
+  "name": "requirejs-userscript-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "SET PORT=8888 && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JochemG/RequireJSUserScriptBoilerplate.git"
+  },
+  "author": "Jochem Geussens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JochemG/RequireJSUserScriptBoilerplate/issues"
+  },
+  "homepage": "https://github.com/JochemG/RequireJSUserScriptBoilerplate#readme",
+  "dependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
